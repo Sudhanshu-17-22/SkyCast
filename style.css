@@ -68,7 +68,7 @@ p{
   font-weight: bold;
   font-size: 2rem;
 }
-.ErrorDisplay{
+.errorDisplay{
   font-weight: bold;
   font-size: 2rem;
   color: hsl(0, 0%, 0%, 0.75);
