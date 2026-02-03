@@ -6,7 +6,7 @@ body{
   flex-direction: column;
   background-color: lightgrey;
 }
-.weatherform{
+.weatherForm{
   margin: 20px;
   display: flex;
   align-items: center;
